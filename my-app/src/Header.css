@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+}
+
+.header > img{
+  width: 30px;
+}
+
+.header{
+  background-color: hsl(0, 100%, 60%);
+  display: flex;
+  justify-content: center;
+  font-family: 'Lato', sans-serif;
+}
