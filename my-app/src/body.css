@@ -22,11 +22,13 @@
  border-radius: 50px;
  margin-top: 20px;
  margin-bottom: 20px;
+ min-width: 300px;
 }
 
 .text{
   display: flex;
   margin-right: 10px;
+  font-size: 20px;
 }
 
 .location{
